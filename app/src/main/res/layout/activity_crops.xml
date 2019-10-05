@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".MainActivity">
+
+    <ImageButton
+        android:id="@+id/ibkharif"
+        android:layout_width="250dp"
+        android:layout_height="159dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:clickable="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.315"
+        app:srcCompat="@drawable/kharif" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="198dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="104dp"
+        android:layout_marginTop="59dp"
+        android:layout_marginBottom="17dp"
+        android:text="@string/crops"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#333633"
+        android:textStyle="bold|italic"
+        android:visibility="visible"
+        app:autoSizeMinTextSize="24dp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintBottom_toTopOf="@+id/ibkharif"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.3" />
+
+    <ImageButton
+        android:id="@+id/ibRabi"
+        android:layout_width="238dp"
+        android:layout_height="145dp"
+        android:layout_marginStart="45dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="90dp"
+        android:layout_marginEnd="45dp"
+        android:layout_marginRight="45dp"
+        android:layout_marginBottom="211dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.52"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ibkharif"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/rabiim" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="143dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="272dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="272dp"
+        android:layout_marginBottom="58dp"
+        android:text="@string/kharif"
+        android:textStyle="bold"
+        app:autoSizeMaxTextSize="80dp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintBottom_toTopOf="@+id/ibRabi"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ibkharif" />
+
+    <LinearLayout
+        android:layout_width="268dp"
+        android:layout_height="98dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.769"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ibRabi"
+        app:layout_constraintVertical_bias="0.0">
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="192dp"
+            android:layout_height="33dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:text="@string/rabi"
+            android:textStyle="bold"
+            app:autoSizeMaxTextSize="80dp"
+            app:autoSizeTextType="uniform" />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,539 @@
+<resources>
+    <string name="app_name">Krishi Upay</string>
+    <string name="language">Choose Language</string>
+    <string name="about">About us</string>
+    <string name="weather">Weather</string>
+    <string name="news">News</string>
+    <string name="support">Support</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="videos">Videos</string>
+    <string name="equip">Machine</string>
+    <string name="wheat">Wheat Farming</string>
+    <string name="paddy">Paddy Farming</string>
+    <string name="organic">Organic Farming</string>
+    <string name="jago">Jagoo Kisan</string>
+    <string name="mausam">Mausam Khabar</string>
+
+    <string name="schemes">SCHEMES</string>
+    <string name="shop">SHOP</string>
+    <string name="fertiliser">FERTILIZERS</string>
+    <string name="help">HELP</string>
+
+    <string name="online">ONLINE STORE</string>
+    <string name="equipment">Agricultural Equipment</string>
+    <string name="seed">Agricultural Seeds</string>
+
+    <string name="govt">GOVERNMENT SCHEMES</string>
+    <string name="bank">BANKING FACILITY</string>
+    <string name="pm">Prime Minister Rozgar Yojna</string>
+    <string name="welfare">Farmers Welfare Schemes</string>
+    <string name="vikas">Rashtriya Krishi Vikas Yojna</string>
+    <string name="subsidy">Subsidy on Hybrid Seeds</string>
+    <string name="fasal">Pradhan Mantri Fasal Bima Yojna</string>
+    <string name="krishi">Pradhan Mantri Krishi Yojna</string>
+    <string name="atma">Atma Scheme</string>
+    <string name="agmarknet">AGMARKNET</string>
+    <string name="category">Please select your category</string>
+
+    <string name="aboutUS">ABOUT US</string>
+    <string name="logout">Logout</string>
+    <string name="app_developed">This app is developed by:-</string>
+    <string name="submit">SUBMIT</string>
+    <string-array name="entry">
+        <item>Select your category</item>
+        <item>Fertilizers</item>
+        <item>Insecticides</item>
+    </string-array>
+
+    <string name="Maize">
+        "\n"M A I Z E"\n"
+
+
+"\n"I N S E C T     P E S T S:- "\n\n"
+
+
+"\n"B O R E R
+
+
+"\n"Symptoms:- The maggot feeds on the young growing shoots results in “dead hearts”"\n"
+
+Management:- Use seeds pelleted with insecticides (see sorghum). Seed treatment with imidacloprid 70 WS 10 g/kg of seeds
+
+"\n""\n"S T E M   B O R E R"\n"
+
+"\n"Symptoms:- Central shoot withers and leading to “dead heart”. Larvae mines the midrib enter the stem and feeds on the internal tissues
+
+"\n"Management:- Mix any of the following granular insecticides with sand to make up a total quantity of 50 kg and apply in the leaf whorls on the 20th
+day of sowing.
+
+"\n\n"D I S E A S E S:-  "\n"
+
+"\n"A n t h r a c n o s e"\n"
+
+"\n"Symptoms:- Anthracnose symptoms vary widely depending on numerous factors such as genotype, age of plant and environmental conditions; lesions develop a tan center and red-brown or orange border
+
+"\n"Management:- Plant hybrids resistant to anthracnose; rotating crops and plowing crop debris into soil may help reduce incidence of early season infections.
+
+        "\n""\n"C H A R C O L   R O T"\n"
+
+Symptoms:- Symptoms are usually first apparent at the tasseling stage; plant stalks become shredded and pith is completely rotted with stringy strands of vascular tissue left intact
+
+"\n"Management:- There are currently no available fungicides to treat the disease; avoid stressing plants by practicing good water management;
+
+</string>
+    <string name="Mustard">
+
+       "\n" M U S T  A R D"\n"
+        "\n" U S E S:- "\n"
+The leaves and shoots of the mustard plant are consumed as a vegetable in some countries. Mustard seed is incorporated into seasonings and dressings. Mustard may be grown as a cover crop in rotation with other vegetables.
+
+       "\n" "\n"D I S E A S E S:- "\n"
+
+"\n"A L T E R N A R I A     L E A F      S P O T"\n"
+
+        "\n"Symptoms:- Small dark spots on leaves which turn brown to gray; lesions may be round or angular and may possess a purple-black margin.
+
+        "\n"Management:- Plant only pathogen-free seed; rotate crops; applications of appropriate fungicides control disease when present
+
+        "\n""\n"C L U B R O O T"\n"
+
+        "\n"Symptoms:- Slow growing, stunted plants; yellowish leaves which wilt during day and rejuvenate in part at night.
+
+        "\n"Management:- Once the pathogen is present in the soil it can survive for many years, elimination of the pathogen is economically unfeasible.
+
+        "\n""\n"I N S E C T   P E S T S:-"\n"
+
+"\n"F L E A   B E E T L E"\n"
+
+        "\n"Symptoms:- Small holes or pits in leaves that give the foliage a characteristic “shothole” appearance; young plants and seedlings are particularly susceptible; plant growth may be reduced.
+
+        "\n"Management:- In areas where flea beetles are a problem, floating row covers may have to be used prior to the emergence of the beetles to provide a physical barrier to protect young plants.
+
+
+    </string>
+    <string name="Oats">
+        "\n"O A T S"\n"
+
+"\n"U S E S :- Oats can be rolled or crushed to produce oatmeal or ground to produce oat flour. Oats may also be used in the production of several baked goods such as oat cakes or oat bread. The vast majority of commercially grown oats are used as livestock feed.
+
+        "\n""\n"I N S E C T    P E S T S:-"\n"
+
+"\n"W I R E  W O R M S"\n"
+
+"\n"SYMPTOMS:- Death of seedlings; reduced stand; girdled stems and white heads; wireworm larvae can be found in soil when dug round the stem; larvae are yellow-brown, thin worms with shiny skin"\n"
+"\n"SOLUTIONS:- Chemical control impossible in a standing crop, must be applied at preplanting or as a seed treatment; if wireworms are known to be present in soil fallow field during summer and till frequently to reduce numbers.
+
+        "\n""\n"S T I N K B U G S"\n"
+
+        "\n"SYMPTOMS:- Damage to head during milk or soft dough stage; stink bugs often carry pathogens in their mouthparts which can cause secondary infections.
+
+        "\n"SOLUTIONS:-  Remove weeds around crop which may act as overwintering sites for stink bugs and practice good weed management throughout the year.
+
+
+        "\n""\n"D IS E A S E S:- "\n"
+
+        "\n"A N T H R  A C N O S E"\n"
+
+        "\n"SYMPTOMS:- Red to brown oval lesions on the leaves; black fungal structures may visible on lesions; crowns become bleached and then turn brown; plants are more susceptible to lodging
+
+        "\n"SOLUTIONS:- Provide plants with adequate levels of fertilizer; rotate crops to improve soil quality; control weeds in field;
+
+
+        "\n""\n"C R O W N  R U S T"\n"
+
+        "\n"SYMPTOMS:- Chlorotic flecks or brown necrotic spots on leaves or stems; yellow streaks or patches on foliage;
+
+        "\n"SOLUTIONS:- The most effective method of controlling rusts is to plant resistant varieties of oats; planting oats early allows them to mature before spores reach plants and escape most damage
+
+</string>
+
+    <string name="Rice">
+        "\n"RICE"\n"
+        "\n"I N S E C T    P E S T S:- "\n"
+
+
+        "\n"L E A F H O P P E R S"\n"
+
+
+        "\n"SYMPTOMS:- Plants may show no symptoms of leafhopper of planthopper damage; insects transmit many rice viruses
+
+        "\n"MANAGEMENT:- Rotating crop for a period of one year is an effective and economical method of controlling hopper numbers
+
+        "\n\n"M O L E    C R I C K E T"\n"
+
+
+        "\n"SYMPTOMS:-  The insect is very destructive because it feeds on seeds, tillers of mature plants and roots.
+
+        "\n"MANAGEMENT:- Use resistant varieties. Level the field properly and irrigate every 3-4 days after planting. Collect and kill the insects during land preparation.
+
+
+
+        "\n\n"D I S E A S E S:- "\n"
+
+
+        "\n"B A C T E R I A L     L E A F     S T R E A K"\n"
+
+
+        "\n"SYMPTOMS:-Small, water-soaked streaks between leaf veins which are initially dark green and then turn translucent; streaks grow larger, coalesce and turn light brown in color
+
+        "\n"MANAGEMENT:- Control of bacterial leaf streak is dependent on the use of resistant rice varieties and on planting of treated seed
+
+        "\n""\n"L E A F    S C A L D"\n\n"
+        "\n"SYMPTOMS:- As name suggest we will see scalded appearance on leaves. The lesion is marked with different zone from alternating light tan and dark brown from leaf tips or edges.
+
+        "\n"MANAGEMENT:- Grow resistant varieties. Treat the seeds with suitable fungicide.
+
+</string>
+
+    <string name="Sugarcane">
+        "\n"S U G A R C A N E"\n"
+
+        "\n"S E E D I N G:-"\n"
+
+
+        "\n"W H I T E  G R U B   L A R V A"\n"
+
+"\n"SYMPTOMS:- Yellowing and wilting of leaves
+
+"\n"SOLUTIONS:- Remove stubble and debris of previous crops. Expose diapausing stages.
+
+
+       "\n""\n" T E R M I T E"\n"
+
+"\n"SYMPTOMS:- Entire shoot dries up.
+
+"\n"SOLUTIONS:- Dig the termite area and destroy the queen termite Growth
+
+    "\n""\n"    E A R L Y   S H O O T   B O R E R"\n"
+
+"\n"SYMPTOMS:- A number of bore holes at the base of shoot just above ground level.
+
+"\n"SOLUTIONS:- Deep summer ploughing,inter culture and hand weeding. grow onion/garlic/coriander as inter crop.
+
+
+</string>
+
+    <string name="Wheat">
+        "\n"W H E A T"\n"
+
+
+        "\n"I N S E C T    P E S T:-"\n""\n"
+"\n"T E R M I T E    E G G"\n"
+
+"\n"SYMPTOMS:- Non Damaging/Inactive state
+
+"\n"SOLUTIONS:- Apply well rotten farm yard manure. Expose the eggs to sunshine. Avoid late sowing ."\n"
+
+"\n"T E R M I T E    L A R V A"\n"
+
+"\n"SYMPTOMS:- They feed onroots and plants die.The plants damaged to later stages give rise to white ears.
+
+"\n"SOLUTIONS:- Use crude oil to destroy the termite colony.
+
+"\n"D I S E A S E S:- "\n""\n"
+
+"\n"F O L I A R    B L I G H T"\n"
+
+"\n"SYMPTOMS:- Infection is first evident small,oval,discoloured lesions irregularly scattered on the leaves.
+
+"\n"SOLUTIONS:- Grow resistant varieties recommended to specific areas. Timely sowing is also good.
+
+"\n"W E E D S"\n"
+
+"\n"SYMPTOMS:-  Competes with the main crop for space,sunlight,water,nutrition and growth.
+
+"\n"SOLUTIONS:- Keep the nursery beds weed free by hand weeding.
+
+</string>
+
+    <string name="kharif">KHARIF CROPS</string>
+    <string name="rabi">RABI CROPS</string>
+    <string name="crops">CROPS</string>
+    <string name="oatsname">OATS</string>
+    <string name="wheatname">WHEAT</string>
+    <string name="mustardname">MUSTARD</string>
+    <string name="ricename">RICE</string>
+    <string name="sugarcanename">SUGARCANE</string>
+    <string name="maizename">MAIZE</string>
+    <string name="fetch">FETCH</string>
+
+    <string name="Fertilizers">
+    "\n"FERTILIZER DEALERS IN PUNJAB"\n\n"
+
+
+    "\n"DISTRICT:    SAHIBZADA AJIT SINGH
+
+
+    "\n"1.	COMPANY NAME:  Aggarwal kahd bhandar
+    "\n"MOBILE NO.:9416327160
+    "\n"ADDRESS: Tasimbli
+
+
+
+    "\n""\n"2.	COMPANY NAME: Aggarwal khad bhandar
+    "\n"MOBILE NO.: 9814999429
+    "\n"ADDRESS :Chandigarh road banur /banur
+
+
+
+    "\n""\n"3.	COMPANY NAME: Amar Chand
+    "\n"MOBILE NO. : 9888402066
+    "\n"ADDRESS : Lalru Mandi/ Lalru
+
+
+    "\n""\n"4.	COMPANY NAME: Anish trading company Zirakpur
+    "\n"MOBILE NO.:9876221000
+    "\n"ADDRESS: Sec 21-c,Chd/ Zirakpur,DerraBassi
+
+
+
+    "\n""\n"5.	COMPANY NAME: Anshul trade likks , Lalru mandi
+    "\n"MOBILE NO.: 9815464343
+    "\n"ADDRESS: Lalru Mandi, Derra Bassi
+
+
+    "\n""\n"6.	COMPANY NAME: Ashish Trading co
+    "\n"MOBILE NO.: 9815464343
+    "\n"ADDRESS :  Main bazzar/Lalru
+
+
+    "\n""\n"7.	COMPANY NAME:B K traders
+    "\n"MOBILE NO.: 9814829744
+    "\n"ADDRESS: Shop no. 35 Grain Market Banur/Banur
+
+
+    "\n""\n"8.	COMPANY NAME: Baidwan Khad store
+    "\n"MOBILE NO.: 9855101369
+    "\n"ADDRESS: 369 phase- 9 Mohali / Mohali
+
+
+    "\n""\n"9.	COMPANY NAME: Bimal store
+    "\n"MOBILE NO.: 9888206542
+    "\n"ADDRESS: Railway road, kurali
+
+
+    "\n""\n"10.	COMPANY NAME: BTN farm Fatehpur
+    "\n"MOBILE NO.: 9417527455
+    "\n"ADDRESS: Fatehpur, Kharar
+
+</string>
+
+
+    <string name="Insecticides">
+    "\n""\n"    LIST OF PESTICIDES DEALERS IN PUNJAB:"\n""\n"
+
+
+"\n"DISTRICT:          SAHIBZADA AJIT SINGH
+
+
+"\n""\n"1.	COMPANY NAME:A one pest control
+"\n"MOBILE NO.: 9855770666
+"\n"ADDRESS: Mohali
+
+
+"\n""\n"2.	COMPANY NAME: Aggarwal khad bhandar
+"\n"MOBILE NO.:9814899429
+"\n"ADDRESS: Banur
+
+"\n""\n"3.	COMPANY NAME: Aman pesticides
+"\n"MOBILE NO.: 9815034850
+"\n"ADDRESS:Sector 70 Mattour/Mohali
+
+
+"\n""\n"4.	COMPANY NAME: AMAR CHAND Ashok kumar
+"\n"MOBILE NO.: 9888402056
+"\n"ADDRESS: Derabassi
+
+
+"\n""\n"5.	COMPANY NAME: Baba farid agro centre
+"\n"MOBILE NO.: 9988700416
+"\n"ADDRESS : Siswan road Kurali
+
+
+"\n""\n"6.	COMPANY NAME: BIMAL ROY
+"\n"MOBILE NO.: 9888206542
+"\n"ADDRESS : Kurali
+
+
+
+"\n""\n"7.	COMPANY NAME: Chaman lal handa
+"\n"MOBILE NO.: 9988184002
+"\n"ADDRESS :Saiba majri
+
+
+"\n""\n"8.	COMPANY NAME: Daman pesticides
+"\n"MOBILE NO.: 9855555000
+"\n"ADDRESS : Indistrial area Mohali
+
+
+"\n""\n"9.	COMPANY NAME: Dashmesh pesticides and seed store
+"\n"MOBILE NO.: 9872709172
+"\n"ADDRESS : Majri /Kurali
+
+
+"\n""\n"10.	COMPANY NAME: Deepak trade links
+    "\n"MOBILE NO.: 9464141793
+    "\n"ADDRESS: Derabassi
+
+
+
+"\n""\n"DISRICT: RUPNAGAR
+
+
+
+"\n""\n"1.	COMPANY NAME: Deepak trading company
+"\n"MOBILE NO.: 9464821045
+"\n"ADDRESS : Deepak kumar S/o Ram paul Vill Abiana kalan
+                                  Tch NPB/ Abiana kalan
+
+
+"\n""\n"2.	COMPANY NAME: Harman khetibari Seva centre challia khurad
+"\n"MOBILE NO.: 9530580027
+"\n"ADDRESS: Challia Khurad
+
+
+"\n""\n"3.	COMPANY NAME:  Khalsa seed store Lodhi Majra
+"\n"MOBILE NO.: 9646464232
+"\n"ADDRESS: Lodhi Majra
+
+
+
+"\n""\n"4.	COMPANY NAME: Khalsa seed store
+"\n"MOBILE NO. : 9464330613
+"\n"ADDRESS: Golani
+
+
+"\n""\n"5.	COMPANY NAME: Khanna seed and chemicals Store main market Nangal
+"\n"MOBILE NO.:9815509563
+"\n"ADDRESS :Main market Nangal/Rupagar
+
+
+
+"\n""\n"6.	COMPANY NAME: Khalsa Agro khaiabad
+"\n"MOBILE NO.: 9464465241
+"\n"ADDRESS :Fool Khuard Rupnagar/ Khairabad
+
+
+"\n""\n"7.	COMPANY NAME: Kissan traders ganguwal
+"\n"MOBILE NO.: 9463221966
+"\n"ADDRESS : Gambirpur APS Rupnagar/ Ganguwal
+
+
+"\n""\n"8.	COMPANY NAME: Lucky Pesticides Seed Store
+"\n"MOBILE NO.:0160-2630473
+"\n"ADDRESS:Morinda
+
+
+"\n""\n"9.	COMPANY NAME: Saini Pesticides
+"\n"MOBILE NO.:09779271000
+"\n"ADDRESS:Chamkaur sahib
+
+
+"\n""\n"10.	COMPANY NAME: Imperial pesticides
+"\n"MOBILE NO.: 09876344222
+"\n"ADDRESS:kainaur  Road Morinda
+
+
+
+
+    </string>
+
+    <string name="welcome">WELCOME</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+</resources>
